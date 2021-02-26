@@ -1,6 +1,6 @@
 # Playground
 
-My personal exercises with Python libraries are stored in this repository.
+My exercises with Python libraries are stored in this repository.
 
 * [Pandas](https://github.com/fedinb/Playground/blob/main/Pandas%20Playground.ipynb)
     - [x] What has been done: file import, data cleaning, exploration and visualization.
