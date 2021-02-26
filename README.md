@@ -1,2 +1,2 @@
 # Playground
-Personal playground for Python libraries.
+Personal Playground for Python libraries.
